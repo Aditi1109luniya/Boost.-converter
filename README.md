@@ -1,5 +1,5 @@
 # Buck-converter
-Designed and implemented a buck-boost converter with 10 V input and adjustable 2–8 V output, supporting up to 1 A load current.
+Designed and implemented a buck converter with 10 V input and adjustable 2–8 V output, supporting up to 1 A load current.
 Operated the converter in Continuous Conduction Mode (CCM) at 20 kHz, and analyzed key waveforms including inductor current and switch voltage.
 Reduced switching frequency to demonstrate Discontinuous Conduction Mode (DCM), capturing characteristic waveform shifts.
 Evaluated and compared converter performance in CCM vs. DCM in terms of efficiency, ripple, and transient behavior.
